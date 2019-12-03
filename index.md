@@ -1,8 +1,17 @@
 ## Bienvenue sur le site de Yanis
 
-You can use the [editor on GitHub](https://github.com/yanismougas/yanismougas.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+Etudiant passionné de marketing digital et de e-commerce, mes capacités vous aideront à accroître votre présence et vos ventes sur le web. Dynamique et plein d'idées, je souhaite devenir l'atout qui permettra à votre entreprise de se développer davantage.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+En pleine période d'apprentissage et de perfectionnement, ma curiosité et mon engagement me permettent d'être rapidement opérationnel dans les différentes missions que j'effectue. J'aimerais avoir la chance d'évoluer dans une entreprise me permettant d'améliorer encore davantage mes compétences, tout en partageant mes acquis avec mes futurs collaborateurs.
+
+
+📌Communication visuelle
+📌Gestion des réseaux sociaux
+📌Gestion des relations clients
+📌Création et animation de site e-commerce
+📌Emailing
+📌Rédaction de contenu SEO
+📌Publicité sur internet 
 
 ### Markdown
 
