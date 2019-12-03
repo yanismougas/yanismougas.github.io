@@ -24,7 +24,7 @@ Syntax highlighted code block
 **Bold** and _Italic_ and `Code` text
 ```
 
-[CLIQUE ICI CHACAL](https://www.youtube.com/watch?v=vO5R7ExDImo) and ![Image](src)
+[CLIQUE ICI CHACAL](https://www.youtube.com/watch?v=vO5R7ExDImo) and ![ouilavabo.png](src)
 
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
