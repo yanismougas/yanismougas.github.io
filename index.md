@@ -23,7 +23,7 @@ Syntax highlighted code block
 
 **Bold** and _Italic_ and `Code` text
 
-[Link][CLIQUE ICI CHACAL](https://www.youtube.com/watch?v=vO5R7ExDImo(url)https://www.youtube.com/watch?v=vO5R7ExDImo) and ![Image](src)
+[Link][CLIQUE ICI CHACAL](https://www.youtube.com/watch?v=vO5R7ExDImo)(url) and ![Image](src)
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
